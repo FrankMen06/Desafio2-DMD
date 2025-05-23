@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fm790\\Documents\\DMDGUIAS\\DMDPractico2\\DesafioPracitco2_MendozaSoriano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0407E03C-5872-4939-1D28-2C6BA1C049A1}|cuboDesafio\\cuboDesafio.dwproj|C:\\Users\\fm790\\Documents\\DMDGUIAS\\DMDPractico2\\DesafioPracitco2_MendozaSoriano\\cuboDesafio\\Desafio2DMD.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0407E03C-5872-4939-1D28-2C6BA1C049A1}|cuboDesafio\\cuboDesafio.dwproj|solutionrelative:cuboDesafio\\Desafio2DMD.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Desafio2DMD.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fm790\\Documents\\DMDGUIAS\\DMDPractico2\\DesafioPracitco2_MendozaSoriano\\cuboDesafio\\Desafio2DMD.cube",
+              "RelativeDocumentMoniker": "cuboDesafio\\Desafio2DMD.cube",
+              "ToolTip": "C:\\Users\\fm790\\Documents\\DMDGUIAS\\DMDPractico2\\DesafioPracitco2_MendozaSoriano\\cuboDesafio\\Desafio2DMD.cube [Dise\u00F1o]",
+              "RelativeToolTip": "cuboDesafio\\Desafio2DMD.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-23T13:55:41.558Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

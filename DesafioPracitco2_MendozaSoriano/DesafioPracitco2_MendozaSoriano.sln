@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETLBD", "ETLBD\ETLBD.dtproj", "{4A3D4C6C-782A-C9CA-86E4-B2924796095D}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "cuboDesafio", "cuboDesafio\cuboDesafio.dwproj", "{0407E03C-5872-4939-1D28-2C6BA1C049A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A3D4C6C-782A-C9CA-86E4-B2924796095D}.Development|Default.ActiveCfg = Development
+		{4A3D4C6C-782A-C9CA-86E4-B2924796095D}.Development|Default.Build.0 = Development
+		{0407E03C-5872-4939-1D28-2C6BA1C049A1}.Development|Default.ActiveCfg = Development
+		{0407E03C-5872-4939-1D28-2C6BA1C049A1}.Development|Default.Build.0 = Development
+		{0407E03C-5872-4939-1D28-2C6BA1C049A1}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {292C9661-1A8A-4D4B-B4B7-769F13622323}
+	EndGlobalSection
+EndGlobal
